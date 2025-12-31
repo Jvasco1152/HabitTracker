@@ -55,9 +55,11 @@
 ## 🚀 Descargar e Instalar
 
 ### Android
-1. Descarga la app desde el [link de build](https://expo.dev/accounts/vasco343/projects/HabitTracker/builds/83576315-b3ba-465f-90db-e4b4f300b97b)
+1. Descarga la app desde el [link de build](https://expo.dev/accounts/vasco343/projects/HabitTracker/builds/c772a93f-4776-4e61-9228-6935b8a74f26)
 2. Instala el APK en tu dispositivo
 3. ¡Empieza a rastrear tus hábitos!
+
+> **Nota:** Asegúrate de permitir instalación de apps de fuentes desconocidas en tu Android
 
 ### iOS
 *Próximamente*
@@ -207,7 +209,7 @@ Para información técnica detallada, consulta [PROJECT_CONTEXT.md](./PROJECT_CO
 
 - **GitHub:** [Jvasco1152/HabitTracker](https://github.com/Jvasco1152/HabitTracker)
 - **EAS Dashboard:** [Proyecto en Expo](https://expo.dev/accounts/vasco343/projects/HabitTracker)
-- **Descargar Android:** [Build Link](https://expo.dev/accounts/vasco343/projects/HabitTracker/builds/83576315-b3ba-465f-90db-e4b4f300b97b)
+- **Descargar Android:** [Build Link](https://expo.dev/accounts/vasco343/projects/HabitTracker/builds/c772a93f-4776-4e61-9228-6935b8a74f26)
 
 ---
 
